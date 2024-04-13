@@ -3,14 +3,9 @@
 <h3>Features</h3>
 <ul>
     <li>Will be following the Gregorian Calendar which is the most commonly used calendar format</li>
-    <li>Creating the Leap Year function</li>
+    <li>Verify if a year is a Leap Year</li>
     <li>User Input</li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
+    <li>Adding Days to a Given Date</li>
 </ul>
 
 <h2>Acknowledgments</h2>
@@ -20,7 +15,7 @@
 
 
 <h2>Photo</h2>
-<img src="carsImage.png" with="300" height="400">
+<img src="photo.png">
 <br>
 
 <h2>Contact</h2>
