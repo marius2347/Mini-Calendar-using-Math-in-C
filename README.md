@@ -2,7 +2,15 @@
 <br>
 <h3>Features</h3>
 <ul>
-    <li> Will be following the Gregorian Calendar which is the most commonly used calendar format</li>
+    <li>Will be following the Gregorian Calendar which is the most commonly used calendar format</li>
+    <li>Creating the Leap Year function</li>
+    <li>User Input</li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
 </ul>
 
 <h2>Acknowledgments</h2>
