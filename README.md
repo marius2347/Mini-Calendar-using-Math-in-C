@@ -1,8 +1,8 @@
-<h1>Mini Calendar - Java Project</h1>
+<h1>Mini Calendar - C Project</h1>
 <br>
 <h3>Features</h3>
 <ul>
-    <li> will be following the Gregorian Calendar which is the most commonly used calendar format</li>
+    <li> Will be following the Gregorian Calendar which is the most commonly used calendar format</li>
 </ul>
 
 <h2>Acknowledgments</h2>
